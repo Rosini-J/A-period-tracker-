@@ -1,8 +1,8 @@
  Period Tracker & Journal App
 
-This is a simple Python project I made as a beginner to practice Python programming.The app helps track menstrual cycle days and also has a small journal section.
+This is a simple Python project I made as a beginner to practice Python programming. The app helps track menstrual cycle days and also has a small journal section.
 
-1. What it can do
+## What it can do
 * Add today's cycle entry
 * View previous entries
 * Predict the next period
@@ -11,10 +11,10 @@ This is a simple Python project I made as a beginner to practice Python programm
 * Write and view journal entries
 * Show general information about PCOS and PCOD
 
-2. What I used
+## What I used
   Functions, Dictionaries, File handling, Try and except, datetime and timedelta. The data is saved in text files, so the entries can be viewed again when the program is opened.
 
-3. How to run   
+## How to run   
 1- Download the project.
 2- Open `period_tracker.py` in Python or VS Code.
 3- Run the file.
