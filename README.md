@@ -1,30 +1,23 @@
-# 🌸 Period Tracker & Journal App
+ Period Tracker & Journal App
 
-A command-line app built with Python to track menstrual 
-cycle health and daily journal entries.
+This is a simple Python project I made as a beginner to practice Python programming.The app helps track menstrual cycle days and also has a small journal section.
 
-## Features
-- Log daily cycle data: pain level, mood, cravings and thoughts
-- Personalized messages based on your mood
-- Predicts your next period date
-- Saves all entries to a local text file
+1. What it can do
+* Add today's cycle entry
+* View previous entries
+* Predict the next period
+* Show the estimated cycle phase
+* Give simple information about what may be happening during the cycle
+* Write and view journal entries
+* Show general information about PCOS and PCOD
 
-## Technologies Used
-- Python 3
-- datetime module
-- File handling (.txt)
+2. What I used
+  Functions, Dictionaries, File handling, Try and except, datetime and timedelta. The data is saved in text files, so the entries can be viewed again when the program is opened.
 
-## How to Run
-1. Make sure Python is installed
-2. Download project.py
-3. Run: python project.py
-4. Fill in your daily details
+3. How to run   
+1- Download the project.
+2- Open `period_tracker.py` in Python or VS Code.
+3- Run the file.
+4- Choose an option from the menu.
 
-## What I Learned
-- Python input handling and dictionaries
-- File handling using open() and write()
-- Conditional logic (if/elif/else)
-- Working with dates using datetime module
-
-## Author
-Rosini J
+(Note: This is a learning project and the period prediction is only an estimate based on a 28-day cycle. The app is not meant to diagnose any medical condition.)
